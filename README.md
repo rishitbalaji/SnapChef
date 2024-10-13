@@ -2,6 +2,19 @@
 
 SnapChef is a comprehensive web application that combines food detection, personalized recipe generation, and meal planning assistance. Using advanced AI technologies and integrations with various services, SnapChef aims to revolutionize the way users approach cooking and meal preparation.
 
+## Video Demo
+
+Check out our video demo to see SnapChef in action:
+
+[![SnapChef Demo](https://i.vimeocdn.com/video/1019109064_640.webp)](https://vimeo.com/1019109064 "SnapChef Demo - Click to Watch!")
+
+This demo showcases the key features of SnapChef, including:
+- User interface and navigation
+- Food detection from uploaded images
+- Personalized recipe generation
+- Meal planning assistance
+- Grocery store locator functionality
+
 ## Features
 
 - **User Authentication**: Secure login system using Auth0.
