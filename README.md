@@ -6,7 +6,8 @@ SnapChef is a comprehensive web application that combines food detection, person
 
 Check out our video demo to see SnapChef in action:
 
-[![SnapChef Demo]([https://vimeo.com/1019109064](https://vimeo.com/1019109064?share=copy) "SnapChef Demo - Click to Watch!")
+[![SnapChef Demo](https://vimeo.com/1019109064?share=copy)](https://opensource.org/licenses/MIT)
+
 
 This demo showcases the key features of SnapChef, including:
 - User interface and navigation
