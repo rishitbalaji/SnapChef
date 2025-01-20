@@ -131,9 +131,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Meta
 
-[Your Name] – [your-email@example.com]
+[Bhargava Perumalla] – [bhargavap740@gmail.com]
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[https://github.com/yourusername/SnapChef]
+[https://github.com/bhargava21/SnapChef]
 
