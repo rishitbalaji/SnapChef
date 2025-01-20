@@ -1,5 +1,8 @@
 # SnapChef: AI-Powered Food Detection and Recipe Assistant
 
+<img width="1435" alt="image" src="https://github.com/user-attachments/assets/74d5f198-b66c-4587-9326-2bc5e79a99da" />
+
+
 SnapChef is a comprehensive web application that combines food detection, personalized recipe generation, and meal planning assistance. Using advanced AI technologies and integrations with various services, SnapChef aims to revolutionize the way users approach cooking and meal preparation.
 
 ## Video Demo
