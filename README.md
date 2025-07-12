@@ -132,6 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Meta
 
 [Bhargava Perumalla] – [bhargavap740@gmail.com]
+[Rishit Balaji] - [rishitbalaji03@gmail.com]
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
